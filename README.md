@@ -11,5 +11,3 @@ Things to expect in Beta 0.6
 -3D schematic
 -Source code
 -Phone app
-
-Translated with DeepL.com (free version)
