@@ -1,7 +1,7 @@
 # Esp32-KeyChain
 Smart Esp32 KeyChain with 5x5 RGB Led Matrix
 
-#Beta 0.1
+# Beta 0.1
 The project is not ready yet, we have only finished the schematics.
 
 Main idea:
