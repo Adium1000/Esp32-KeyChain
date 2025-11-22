@@ -15,3 +15,15 @@ Things to expect in Beta 0.6
 -Phone app
 
 ![Logo](Resources/Components.jpeg)
+# Components
+Microcontroller: ESP32-C3 (DevKitC)
+
+Charging Module: TP4056 USB-C Boost Module (All-in-One 5V Boost)
+
+Battery: Li-ion / LiPo 3.7V (500mAh)
+
+Accelerometer: MPU-6050 (GY-521)
+
+Touch Sensor: TTP223 (TTP223-AM)
+
+LED Matrix: WS2812B Matrix (5×5)
