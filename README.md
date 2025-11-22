@@ -13,3 +13,5 @@ Things to expect in Beta 0.6
 -3D schematic
 -Source code
 -Phone app
+
+![Logo](Resources/sensors wide (1).jpeg)
