@@ -14,4 +14,4 @@ Things to expect in Beta 0.6
 -Source code
 -Phone app
 
-![Logo](Resources/Componentsjpeg)
+![Logo](Resources/Components.jpeg)
