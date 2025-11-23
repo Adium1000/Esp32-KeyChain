@@ -8,7 +8,9 @@ https://www.arduino.cc/en/software/
 
 -> Open File -> Preferences
 A window will open where you will find "Additional Board manager URL."
+
 Paste "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
+
 Click Ok
 
 
