@@ -57,5 +57,34 @@ Tools -> Board -> esp32 -> Esp32C3 Dev Module(or the board you use)
 
 Tools -> Port -> Choose the COM port your ESP32 is conected to
 
-# 2 Upload the code
+# 6 Upload the code
+![Logo](Resources/Upload.png)
+
+
+Download the INO file, select your board and click the right arrow to upload
+# 7 Use the components mentioned above to form this diagram.
+![Logo](Resources/Schematichs.png)
+# 8 Configuration tool
+The code you uploaded to your palette creates a website where you can modify certain aspects of the keychain.
+To acces that
+-Connect to "Adrian's KeyChain™"
+
+
+![Logo](Resources/Network.png)
+
+
+-Open ANY browser and tipe in the URL bar: "192.168.4.1" because is a local site 
+![Logo](Resources/URL.png)
+
+-And Done, here you can customize the KeyChain
+
+
+![Logo](Resources/PRW.png)
+
+# Customize Network and Site 
+
+Modify: 
+Line 10 in the quotes for the Wifi Name
+Line 11 in the quotes for the Wifi Password
+Line 850 and 993 for the site title
 
