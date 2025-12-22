@@ -8,8 +8,6 @@ Smart Esp32 KeyChain with 5x5 RGB Led Matrix
 Main idea:
 A smart keychain capable of displaying emotions on a 5x5 grid and turning on automatically thanks to the GY 521 sensor. We have also integrated a touch button for automatic Bluetooth activation, and in the future we will add a mini speaker to the next design.
 
-
-![Logo](Resources/Components.jpeg)
 # Components
 Microcontroller: ESP32-C3 (DevKitC)
 
@@ -22,3 +20,7 @@ Accelerometer: MPU-6050 (GY-521)
 Touch Sensor: TTP223 (TTP223-AM)
 
 LED Matrix: WS2812B Matrix (5×5)
+
+# Quick Guide
+
+#1.Setup Esp32C3
